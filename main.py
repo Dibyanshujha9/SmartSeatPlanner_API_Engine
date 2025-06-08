@@ -154,3 +154,9 @@ async def generate_seating_plan(
         media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         headers={"Content-Disposition": "attachment; filename=seating_plan.xlsx"}
     )
+
+
+
+
+
+# End 
