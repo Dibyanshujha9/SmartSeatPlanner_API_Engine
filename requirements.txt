@@ -4,3 +4,8 @@ python-multipart
 pandas
 openpyxl
 python-docx
+Pillow
+jinja2
+python-jose[cryptography]
+passlib[bcrypt]
+aiofiles
